@@ -1,0 +1,17 @@
+h3{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:crimson;
+
+
+}
+body{
+
+    background-image: url("../img/cool-background.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+label{
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+}
